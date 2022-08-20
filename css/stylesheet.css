@@ -18,32 +18,6 @@ p {
   color: black;
 }
 
-div#container {
-  background-color: #00FFFF;
-  position: relative;
-  top: 60px;
-}
-p {
-  border: 1px solid black;
-  background-color: #808080;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Arial;
-  color: black;
-}
-#p1 {
-  background-color: #A52A2A;
-  position: relative;
-  right: 0;
-  top: 0;
-}
-#p2 {
-  background-color: #DEB887;
-  position: relative;
-}
-
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
