@@ -4,20 +4,6 @@
   font-family: Arial;
 }
 
-#box {
-  padding: 5px;
-  border: 2px solid black;
-  width: 100px;
-  height: auto;
-  margin-top: 50px;
-  overflow: auto;
-  background-color: #fa9189;
-  position: relative;
-}
-content {
-  background-color: #FFFFFF;
-}
-
 h1 {
   margin-bottom: 15px;
   text-align: center;
