@@ -12,9 +12,7 @@
   margin-top: 50px;
   overflow: auto;
   background-color: #fa9189;
-  position: absolute;
-  top: 0;
-  right: 0;
+  position: relative;
 }
 #content {
   background-color: #FFFFFF;
