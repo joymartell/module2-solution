@@ -4,7 +4,7 @@
   font-family: Arial;
 }
 
-box {
+#box {
   padding: 5px;
   border: 2px solid black;
   width: 50px;
@@ -35,7 +35,7 @@ p {
 
 /* Simple Responsive Framework. */
 .row {
-  width: 100%;
+  width: 90%;
 }
 
 /********** Large devices only **********/
