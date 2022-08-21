@@ -4,7 +4,7 @@
   font-family: Arial;
 }
 
-#box {
+box {
   padding: 5px;
   border: 2px solid black;
   width: 50px;
@@ -14,7 +14,7 @@
   background-color: #fa9189;
   position: relative;
 }
-#content {
+content {
   background-color: #FFFFFF;
 }
 
