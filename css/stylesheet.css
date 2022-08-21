@@ -17,36 +17,6 @@ p {
   font-family: Arial;
   color: black;
 }
-#p1 {
-  background-color: #A52A2A;
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-#p2 {
-  background-color: #808080;
-  position: relative;
-}
-#p3 {
-  background-color: #5F9EA0;
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-#p4 {
-  background-color: #808080;
-  position: relative;
-}
-#p5 {
-  background-color: #A52A2A;
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-#p6 {
-  background-color: #808080;
-  position: relative;
-}
 
 /* Simple Responsive Framework. */
 .row {
