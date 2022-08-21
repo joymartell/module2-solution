@@ -14,13 +14,13 @@ body {
   height: auto;
   margin-top: 50px;
   overflow: auto;
-  background-color: #5F9EA0;
+  background-color: #fa9189;
   position: absolute;
   top: 0;
   right: 0;
 }
 #content {
-  background-color: #90EE90;
+  background-color: #808080;
 }
 
 h1 {
