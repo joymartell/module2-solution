@@ -20,8 +20,7 @@ p {
 }
 #p1 {    
       float: right;
-      background-color: #ab472e;
-      position: absolute;
+      background-color: #fa9189;
       width: auto;    
       height: auto;
       margin-top: 0;
@@ -31,7 +30,7 @@ p {
     }  
 #p2 {    
      float: right;
-      background-color: #fa9189;    
+      background-color: #ab472e;    
       width: auto;    
       height: auto;    
       margin-top: 0;  
@@ -41,7 +40,6 @@ p {
 #p3 {
       float: right;
       background-color: #ede385;
-      position: absolute;
       width: auto;    
       height: auto;
       margin-top: 0;
