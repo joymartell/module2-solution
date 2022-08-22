@@ -24,11 +24,12 @@ p {
 }
 #p1 {    
       float: right;
+      position: absolute;
       background-color: #fa9189;
       width: auto;    
       height: auto;
-      margin-top: 0;
-      margin-right: 0;
+      top: 0;
+      right: 0;
       padding: 10px;
       border: 2px solid black;
     }  
